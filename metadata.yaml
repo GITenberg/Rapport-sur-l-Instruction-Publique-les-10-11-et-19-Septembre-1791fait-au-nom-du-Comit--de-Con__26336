@@ -1,0 +1,37 @@
+_repo: Rapport-sur-l-Instruction-Publique-les-10-11-et-19-Septembre-1791fait-au-nom-du-Comit--de-Con__26336
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Talleyrand-Périgord, Charles Maurice de, prince de Bénévent
+    aliases:
+    - Talleyrand-Perigord, Charles Maurice de, prince de Benevent
+    - Périgord, Charles-Maurice de Talleyrand
+    birthdate: 1754
+    deathdate: 1838
+    gutenberg_agent_id: '9390'
+    url: http://www.gutenberg.org/2009/agents/9390
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Maurice_de_Talleyrand-P%C3%A9rigord
+    - http://fr.wikipedia.org/wiki/Charles-Maurice_de_Talleyrand-P%C3%A9rigord
+description: ''
+gutenberg_bookshelf: FR Education et Enseignement
+gutenberg_issued: '2008-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26336'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education -- France'
+- !lcsh 'Educational law and legislation -- France'
+- !lcsh 'France -- Politics and government -- 1789-1900'
+- !lcc 'L'
+title: 'Rapport sur l''Instruction Publique, les 10, 11 et 19 Septembre 1791
+
+  fait au nom du Comité de Constitution à l''Assemblée Nationale'
+url: http://www.gutenberg.org/ebooks/26336
