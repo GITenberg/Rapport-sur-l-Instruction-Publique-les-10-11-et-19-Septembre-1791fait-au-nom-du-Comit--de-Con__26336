@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Charles_Maurice_de_Talleyrand-P%C3%A9rigord
     - http://fr.wikipedia.org/wiki/Charles-Maurice_de_Talleyrand-P%C3%A9rigord
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26336#Rapport-sur-l-Instruction-Publique-les-10-11-et-19-Septembre-1791fait-au-nom-du-Comit--de-Con_
 gutenberg_bookshelf: FR Education et Enseignement
 gutenberg_issued: '2008-08-17'
 gutenberg_type: Text
